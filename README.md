@@ -29,6 +29,8 @@ Project link: https://lec-27-conter-app-by-redux-5pk1.vercel.app/
 **LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
 
 
+---
+
 ## ✨ Features
 
 - 📦 Product listings with images, titles, descriptions, and prices
